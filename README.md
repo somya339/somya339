@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; MERN Stack Web Developer and Cloud Enthusiast.
 - 🎓 &nbsp; Learning Data Structures and Algorithms.
-- 💼 &nbsp; Always ready to work on different and creative ideas.
+- 💼 &nbsp; Always ready to work on different creative ideas.
 - 📫 How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somya-gupta-0118a31b6/)](https://www.linkedin.com/in/somya-gupta-0118a31b6/)
   , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somyagupta746.com)](mailto:somyagupta746@gmail.com)
