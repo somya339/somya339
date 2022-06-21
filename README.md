@@ -1,4 +1,4 @@
-<h2> Howdy! I'm Somya.</h2>
+<h2> Howdy! I'm Somya.(<a href="https://devportfolio.me" target="_blank">Portfolio</a>)</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
